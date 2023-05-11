@@ -1,0 +1,11 @@
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.csproj.AssemblyReference.cache
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.csproj.SuggestedBindingRedirects.cache
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.Properties.Resources.resources
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.csproj.GenerateResource.cache
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.csproj.CoreCompileInputs.cache
+C:\Users\bavyk\source\CG\CG3\CG3\bin\Debug\CG3.exe.config
+C:\Users\bavyk\source\CG\CG3\CG3\bin\Debug\CG3.exe
+C:\Users\bavyk\source\CG\CG3\CG3\bin\Debug\CG3.pdb
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.Form1.resources
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.exe
+C:\Users\bavyk\source\CG\CG3\CG3\obj\Debug\CG3.pdb
